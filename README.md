@@ -14,3 +14,5 @@ Reloaded and added @media
 
 Used background color to see the changes to the different max-width and then removed for final product
 change text-aligned to nav and name bar to overwrite the codes above so when changed the max width it will change with. 
+
+Linked some homework assignments to my portfolio.
